@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**csizmadialaci/csizmadialaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Laci! 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Student at Sapientia EMTE, Targu Mures  
+💻 Web Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** C, C++, Java, JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React, Next.js, Node.js
+- **Tools:** Git, Visual Studio Code
+
+## Projects
+
+https://chanita-one.vercel.app/
+https://hackwhitespace.vercel.app/
+
+
+## Contact Me
+
+📫 **Email:** csizmadia.laszlo@student.ms.sapientia.ro
+🔗 **LinkedIn:** https://www.linkedin.com/in/csizmadia-l%C3%A1szl%C3%B3-9a9b9b267/
+
