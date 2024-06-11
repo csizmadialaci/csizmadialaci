@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Laci! 👋
 
 🎓 Computer Science Student at Sapientia EMTE, Targu Mures  
