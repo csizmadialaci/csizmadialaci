@@ -11,7 +11,7 @@
 
 ## Projects
 
-https://netflix-clone-navy-eta.vercel.app/home
+https://netflix-clone-navy-eta.vercel.app/
 
 https://chanita-one.vercel.app/
 
