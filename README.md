@@ -12,6 +12,8 @@ Check out my website: https://csizmadia-laszlo.vercel.app/
 
 ## Projects
 
+https://csizmadia-laszlo.vercel.app/
+
 https://netflix-clone-navy-eta.vercel.app/
 
 https://chanita-one.vercel.app/
